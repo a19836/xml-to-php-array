@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<services>
+		<service id="define_age" constructor="Person1" function="setAge" />
+		<service id="test" function="foo" />
+	</services>
+</beans>
