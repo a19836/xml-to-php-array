@@ -1,7 +1,7 @@
 # XML to PHP Array
 
 > Original Repos:   
-> - XML to PHP Array: https://github.com/a19836/xmltophparray/   
+> - XML to PHP Array: https://github.com/a19836/xml-to-php-array/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
